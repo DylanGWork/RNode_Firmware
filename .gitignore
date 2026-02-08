@@ -3,7 +3,7 @@
 *.pyc
 TODO
 Release/*.hex
-Release/*.zip
+#Release/*.zip
 Release/*.json
 Console/build
 build/*
